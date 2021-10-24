@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# JMI Social
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check Out the Demo at [JMI Social](https://jmisocial.netlify.app/posts).
 
 ## Available Scripts
 
